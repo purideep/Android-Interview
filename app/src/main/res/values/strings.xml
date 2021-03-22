@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Surfaces</string>
+    <string name="no_data">No Data Found</string>
+    <string name="call_failed">Network call failed</string>
+</resources>
